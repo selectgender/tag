@@ -1,0 +1,3 @@
+export = {
+  intermissionLength: 5
+}
