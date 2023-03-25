@@ -1,0 +1,3 @@
+export = {
+  votingLength: 5
+}

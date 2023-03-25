@@ -1,3 +1,3 @@
 export = {
-  intermissionLength: 5
+  intermissionLength: 3
 }

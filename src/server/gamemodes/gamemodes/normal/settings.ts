@@ -1,3 +1,3 @@
 export = {
-  roundLength: 5
+  roundLength: 60
 }
